@@ -12,7 +12,7 @@
     "axios": "^0.21.1",
     "eth-sig-util": "^3.0.1",
     "ethereum-private-key-to-address": "^0.0.7",
-    "mushie": "0.0.4",
+    "mushie": "0.0.10",
     "nebulus": "^0.0.11",
     "rarebase": "0.0.6",
     "traverse": "^0.6.6",
