@@ -9,7 +9,7 @@
   "author": "skogard@protonmail.com",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.26.1",
     "eth-sig-util": "^3.0.1",
     "ethereum-private-key-to-address": "^0.0.7",
     "mushie": "0.0.4",
